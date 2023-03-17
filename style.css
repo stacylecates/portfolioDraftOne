@@ -1,0 +1,72 @@
+
+  .navbar {
+    background-color: #196774;
+    }
+
+    a.nav-link {
+      color: white;
+    }
+
+    #avatar{
+      position: relative;
+      object-fit: cover;
+      height: 50vh;
+    }
+
+    #contactButton {
+      background-color: #196774;
+    } 
+
+    #portfolioButton {
+      background-color: #196774;
+      color: white;
+    }
+
+    #viewButton {
+      background-color: #196774;
+      color: white;
+    } 
+      
+    #portfolio {
+      background-color: #196774;
+    }
+    
+  .card-body {
+      background-color: white;
+      margin: 0px;
+      border: none;
+    }
+
+  .card-footer {
+    margin: 0px;
+    background-color: white;
+    border: none;
+    }
+  
+  ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      font-style: normal;
+    }  
+
+  .contact {
+      margin: 0px;
+    }
+   
+  #carousel {
+  margin:auto;
+    }
+
+  #carouselExampleControls {
+  margin:auto;
+    }
+
+  #submitButton {
+  background-color: #196774;
+  color: white;
+    }
+
+.nameHeading {
+  font-family: 'Purple Purse', cursive;
+    }
